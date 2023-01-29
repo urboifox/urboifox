@@ -1,6 +1,6 @@
 <!-- Banner-->
 
-![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90595158/211714223-88d74b88-203f-4682-a9e3-f265c82cccaa.png)
+![Black Minimalist Corporate Personal Profile LinkedIn Banner](./assets/cover.png)
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
@@ -12,7 +12,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <!---
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
-<img align="right" alt="GIF" src="./assets/cover.png" width="360px"/>
+<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
 
 
 <br>
@@ -62,8 +62,9 @@ In construction: &nbsp; [![Linkedin: Mohamed Ashraf](https://img.shields.io/badg
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/gunblade6/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/gunblade6/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gunblade6&show_icons=true&theme=radical&count_private=true" alt="Gunblade6" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunblade6&layout=compact&theme=radical" alt="Gunblade6" height="165">
+</p>
 
 </div>
 <br>
@@ -158,8 +159,4 @@ In construction: &nbsp; [![Linkedin: Mohamed Ashraf](https://img.shields.io/badg
 <img src="https://github-readme-stats.vercel.app/api?username=gunblade6&show_icons=true&theme=radical&count_private=true" alt="Gunblade6" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunblade6&layout=compact&theme=radical" alt="Gunblade6" height="165">
 </p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=gunblade6.gunblade6">
-<div align="right">
-  
-
-
-</div>
+</details>
