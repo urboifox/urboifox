@@ -53,7 +53,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/midoashraf010)](https://www.frontendmentor.io/profile/midoashraf010)&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/gunblade6)](https://codepen.io/gunblade6)&nbsp;
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/gunblade6)](https://linktr.ee/gunblade6)&nbsp;
-In construction: &nbsp; [![Linkedin: Mohamed Ashraf](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-ashraf-142659246/)](https://www.linkedin.com/in/mohamed-ashraf-142659246/)
+[![Linkedin: Mohamed Ashraf](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-ashraf-142659246/)](https://www.linkedin.com/in/mohamed-ashraf-142659246/)
 
 </div>
 
