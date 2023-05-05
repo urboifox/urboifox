@@ -1,6 +1,6 @@
 <!-- Banner-->
 
-![Personal Profile Banner](./assets/cover2.png)
+![Personal Profile Banner](./assets/cover3.png)
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
