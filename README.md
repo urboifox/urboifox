@@ -20,29 +20,18 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **React and Mastering JS**.
+- 🌱 I’m currently learning **React**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/midoashraf010)!.
+- 🔍 Take a look at my projects on [**my portfolio**](https://mohamed-dev.netlify.app)!.
 
 - 📫 How to reach me: **mohamed.dev.egy@gmail.com**.
 
-- 💬 Ask me about **HTML and CSS**.
-
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
-
-- 👯 I’m looking to collaborate on **Developing new open-source projects**.
+- 👯 I’m open to collaborate on **Developing new open-source projects**.
 
 
 <br>
 <br>
 
-## Goals
-
-- 📖 Improve my skills in **JavaScript**.
-- 📖 Learn **React**.
-- 📖 Create my own portfolio website.
-
-#
 
 <br>
 <h2 align="center">📫 Connect with me</h2>
@@ -85,24 +74,6 @@ I'm a software engineering student with a passion for web programming. My goal i
 ![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 </details>
 
-<!-- <details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)&nbsp;
-</details> -->
-
-<!-- <details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)&nbsp;
-![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-</details> -->
 
 <details open>
 <summary><b>💻 Software and Tools</b></summary>
@@ -117,8 +88,6 @@ I'm a software engineering student with a passion for web programming. My goal i
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 </details>
-
-<!-- </div> -->
 
 
 <br>
@@ -141,20 +110,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <img src="https://github-profile-trophy.vercel.app/?username=gunblade6&theme=radical&no-frame=true&no-bg=true" alt="Gunblade6" />
 </p>
 </details>
-<!--
-<details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<a href="https://github.com/MelvinAguilar/TravelGo"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=TravelGo&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TravelGo"></a>
-<a href="https://github.com/MelvinAguilar/portafolio-desarrollo-web"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=portafolio-desarrollo-web&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="portafolio-desarrollo-web"></a>
-<a href="https://github.com/MelvinAguilar/advice-generator-app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=advice-generator-app&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="advice-generator-app"></a>
-<a href="https://github.com/MelvinAguilar/database-learning"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=database-learning&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="database-learning"></a>
-<a href="https://github.com/MelvinAguilar/interactive-rating-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=interactive-rating-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="interactive-rating-component"></a>
-<a href="https://github.com/MelvinAguilar/huddle-landing-page-with-alternating-feature-blocks"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=huddle-landing-page-with-alternating-feature-blocks&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="huddle-landing-page-with-alternating-feature-blocks"></a>
-</p>
-</details>
--->
+
 <details>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
