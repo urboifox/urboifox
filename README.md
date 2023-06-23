@@ -20,13 +20,11 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Backend Development**.
 
 - 🔍 Take a look at my projects on [**my portfolio**](https://mohamed-dev.netlify.app)!.
 
 - 📫 How to reach me: **mohamed.dev.egy@gmail.com**.
-
-- 👯 I’m open to collaborate on **Developing new open-source projects**.
 
 
 <br>
@@ -40,8 +38,6 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
   
 [![Gmail: Mohamed Ashraf](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mohamed.dev.egy@gmail.com)](mailto:mohamed.dev.egy@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/midoashraf010)](https://www.frontendmentor.io/profile/midoashraf010)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/gunblade6)](https://codepen.io/gunblade6)&nbsp;
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/gunblade6)](https://linktr.ee/gunblade6)&nbsp;
 [![Linkedin: Mohamed Ashraf](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-ashraf-142659246/)](https://www.linkedin.com/in/mohamed-ashraf-142659246/)
 
 </div>
@@ -52,7 +48,7 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
 <div align = "center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gunblade6&show_icons=true&theme=radical&count_private=true" alt="Gunblade6" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunblade6&layout=compact&theme=radical" alt="Gunblade6" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=urboifox&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urboifox&layout=compact&theme=radical" alt="urboifox" height="165">
 </p>
 
 </div>
@@ -101,7 +97,7 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=gunblade6&theme=radical&hide_border=true" alt="Gunblade6" width="420"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=urboifox&theme=radical&hide_border=true" alt="urboifox" width="420"/>
 </p>
 </details>
 
@@ -109,7 +105,7 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gunblade6&theme=radical&no-frame=true&no-bg=true" alt="Gunblade6" />
+<img src="https://github-profile-trophy.vercel.app/?username=urboifox&theme=radical&no-frame=true&no-bg=true" alt="urboifox" />
 </p>
 </details>
 
@@ -117,7 +113,7 @@ I'm a Frontend Developer with passion for Software Engineering. My goal is to de
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gunblade6&show_icons=true&theme=radical&count_private=true" alt="Gunblade6" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunblade6&layout=compact&theme=radical" alt="Gunblade6" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=urboifox&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urboifox&layout=compact&theme=radical" alt="urboifox" height="165">
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=gunblade6.gunblade6">
+<img src="https://visitor-badge.glitch.me/badge?page_id=urboifox.urboifox">
 </details>
