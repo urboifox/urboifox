@@ -3,7 +3,10 @@
 ![Personal Profile Banner](./assets/cover3.png)
 
 <p align="center">
-I'm a Frontend Developer with passion for Software Engineering. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+I'm a web developer with a relentless drive for excellence, skilled in creating and
+maintaining functional and responsive web applications and websites. Proficient in the latest
+web technologies and frameworks, continuously expanding my skill set to stay at the forefront
+of the industry.
 </p>
 
 ##
