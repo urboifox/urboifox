@@ -21,7 +21,7 @@ of the industry.
 <br>
 
 
-- 🔭 I’m currently studying on **becoming a software engineer**.
+- 🔭 I’m currently studying on **software engineering**.
 
 - 🌱 I’m currently learning **Backend Development**.
 
