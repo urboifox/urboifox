@@ -41,7 +41,7 @@ of the industry.
   
 [![Gmail: Mohamed Ashraf](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mohamed.dev.egy@gmail.com)](mailto:mohamed.dev.egy@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/midoashraf010)](https://www.frontendmentor.io/profile/midoashraf010)&nbsp;
-[![Linkedin: Mohamed Ashraf](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-ashraf-142659246/)](https://www.linkedin.com/in/mohamed-ashraf-142659246/)
+[![Linkedin: Mohamed Ashraf](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urboifox/)](https://www.linkedin.com/in/urboifox/)
 
 </div>
 
