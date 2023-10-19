@@ -3,8 +3,8 @@
 ![Personal Profile Banner](./assets/cover3.png)
 
 <p align="center">
-I'm a web developer with a relentless drive for excellence, skilled in creating and
-maintaining functional and responsive web applications and websites. Proficient in the latest
+Mohamed is a web developer who loves code and food, skilled in creating and
+maintaining stunning web applications and websites since 1995. Proficient in the latest
 web technologies and frameworks, continuously expanding my skill set to stay at the forefront
 of the industry.
 </p>
@@ -20,10 +20,6 @@ of the industry.
 
 <br>
 
-
-- 🔭 I’m currently studying on **software engineering**.
-
-- 🌱 I’m currently learning **Backend Development**.
 
 - 🔍 Take a look at my projects on [**my portfolio**](https://urboifox.vercel.app)!.
 
@@ -87,7 +83,7 @@ of the industry.
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 
 </details>
