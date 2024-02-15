@@ -113,7 +113,7 @@ of the industry.
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
-<details>
+<details open>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
@@ -121,7 +121,7 @@ of the industry.
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
@@ -129,7 +129,7 @@ of the industry.
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
