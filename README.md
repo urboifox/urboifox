@@ -23,9 +23,9 @@ of the industry.
 
 - 🔍 Take a look at my projects on [**my portfolio**](https://urboifox.vercel.app)!.
 
-- ![](https://komarev.com/ghpvc/?username=urboifox)
-
 - 📫 How to reach me: **mohamed.dev.egy@gmail.com**.
+
+-  ![](https://komarev.com/ghpvc/?username=urboifox)
 
 
 <br>
