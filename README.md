@@ -138,4 +138,4 @@ of the industry.
   
 </details>
 
-![](https://img.shields.io/static/v1?label=Profile+views&message=12.3K&color=007ec6)
+![](https://komarev.com/ghpvc/?username=urboifox)
