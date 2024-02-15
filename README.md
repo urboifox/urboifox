@@ -139,5 +139,3 @@ of the industry.
 </p>
   
 </details>
-
-![](https://komarev.com/ghpvc/?username=urboifox)
