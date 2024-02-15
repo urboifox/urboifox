@@ -135,5 +135,5 @@ of the industry.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=urboifox&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urboifox&layout=compact&theme=radical" alt="urboifox" height="165">
 </p>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=urboifox&color=dc143c)
 </details>
