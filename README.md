@@ -18,9 +18,9 @@ Web developer who loves code and video games, skilled in creating and maintainin
 <br>
 
 
-- 🔍 Take a look at my projects on [**my portfolio**](https://urboifox.vercel.app)!.
+- 🔍 Take a look at my projects on [**my portfolio**](https://urboifox.dev)!.
 
-- 📫 How to reach me: **mohamed.dev.egy@gmail.com**.
+- 📫 Your can reach me at: **urboifox@gmail.com**.
 
 -  ![](https://komarev.com/ghpvc/?username=urboifox)
 
