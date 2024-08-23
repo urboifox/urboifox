@@ -84,6 +84,7 @@ Web developer who loves code and video games, skilled in creating and maintainin
 <details open>
 <summary><b>⚙️ Backend</b></summary>
 <br>
+  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -97,6 +98,7 @@ Web developer who loves code and video games, skilled in creating and maintainin
 <details open>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
+  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
