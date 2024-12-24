@@ -23,7 +23,7 @@ Web developer who loves code and video games, skilled in creating and maintainin
 - 📫 Your can reach me at: **urboifox@gmail.com**.
 
 -  ![](https://komarev.com/ghpvc/?username=urboifox)
--  [![committers.top badge](https://user-badge.committers.top/egypt_private/USERNAME.svg)](https://user-badge.committers.top/egypt_private/USERNAME)
+-  [![committers.top badge](https://user-badge.committers.top/egypt_private/urboifox.svg)](https://user-badge.committers.top/egypt_private/urboifox)
 
 
 <br>
