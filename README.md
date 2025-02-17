@@ -3,7 +3,7 @@
 ![Personal Profile Banner](./assets/cover3.png)
 
 <p align="center">
-Web developer who loves code and video games, skilled in creating and maintaining stunning web applications and websites since 1995. Proficient in the latest web technologies and frameworks, while continuously expanding my skill set to stay at the forefront of the industry.
+Average nerd.
 </p>
 
 ##
