@@ -15,13 +15,7 @@
 
 <br>
 
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=urboifox&theme=radical&hide_border=true" alt="urboifox" width="420"/>
-</p>
-
-<br>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Stack</h2>
 
 <b>🏄‍♂️ Frontend</b>
 <br>
