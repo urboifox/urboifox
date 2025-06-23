@@ -40,9 +40,7 @@
 <b>💻 Software and Tools</b>
 <br>
   
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Burb](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)&nbsp;
